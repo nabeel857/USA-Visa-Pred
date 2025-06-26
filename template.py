@@ -33,6 +33,11 @@ list_of_files = [
     "setup.py",
     "config/model.yaml",
     "config/schema.yaml",
+    "notebook/1_EDA_US_visa.ipynb",
+    "notebook/2_Feature_Engineering_and_Model_Training.ipynb",
+    "notebook/data_drift_demo_evidently.ipynb",
+    "notebook/mongoDB_demo.ipynb",
+    "flocharts"
 
 
 ]
